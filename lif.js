@@ -1,3 +1,8 @@
-console.log('Blessing Bueze Nnadi');
-console.log('Height: 165cm');
-console.log('Country: Nigeria');
+var my_name = "Blessing Bueze Nnadi";
+var height = "6'6 ft";
+var country = "Nigeria";
+
+
+document.write("My name  is   ", my_name);
+document.write("<br> My height  is   ", height);
+document.write("<br> I am from ", country);
